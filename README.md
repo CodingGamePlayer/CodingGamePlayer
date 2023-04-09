@@ -16,7 +16,7 @@
 </div>
 <br>
 <br>
-<div align="center"><h2>🛠️ My Thech Stack</h3></div>
+<div align="center"><h2>🛠️ My Tech Stack</h3></div>
 
  <br>
 <div align="center">
