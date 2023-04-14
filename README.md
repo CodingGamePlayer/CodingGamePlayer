@@ -12,7 +12,7 @@
     > 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
 
 <div align="center">    
-    <a href="https://jamesblog95.tistory.com/">🔗 Welcome to James's Tech Blog!</a>
+    <a href="https://jamesblog95.tistory.com/">🔗 Welcome to the James's Tech Blog!</a>
 </div>
 <br>
 <br>
@@ -20,6 +20,7 @@
 
  <br>
 <div align="center">
+<img src="https://img.shields.io/badge/Java-FF9900?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
