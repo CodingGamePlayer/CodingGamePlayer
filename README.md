@@ -32,4 +32,6 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JPA-40AEF0?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MyBatis-A100FF?style=flat-square&logo=MyBatis&logoColor=white"/></a>&nbsp
 </div>
