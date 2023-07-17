@@ -19,7 +19,7 @@
 <div align="center"><h2>🛠️ My Tech Stack</h3></div>
 
 <table align="center">
-    <tr align="center">
+    <tr>
         <th>
             Language
         </th>
@@ -36,7 +36,7 @@
            VCS & Infra
         </th>
     </tr>
-    <tr align="center">
+    <tr>
         <td>
             <img src="https://img.shields.io/badge/Java-FF9900?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
