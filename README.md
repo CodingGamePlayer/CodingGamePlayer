@@ -53,7 +53,7 @@
             <img src="https://img.shields.io/badge/JPA-40AEF0?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp
             <img src="https://img.shields.io/badge/MyBatis-A100FF?style=flat-square&logo=MyBatis&logoColor=white"/></a>&nbsp
             <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>&nbsp 
-            <br>
+            <hr>
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
             <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
         </td>
