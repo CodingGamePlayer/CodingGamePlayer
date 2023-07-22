@@ -2,7 +2,6 @@
     <h2>Who's Kr.James❓</h3>
 </div>
 <br>
-
     > 📚 I'm currently studying backend development and have experience building projects using Spring Boot and Node.js. 
     
     > 💻 I'm passionate about coding and enjoy learning something new every day. 
