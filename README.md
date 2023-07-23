@@ -1,16 +1,16 @@
 <div align="center">
-    <h2>Who's Kr.James❓</h3>
+    <h2>Who's Kr.James❓</h2>
 </div>
 <br>
-
-    > 📚 I'm currently studying backend development and have experience building projects using Spring Boot and Node.js. 
     
-    > 💻 I'm passionate about coding and enjoy learning something new every day. 
+    - 📚 I'm currently studying backend development and have experience building projects using Spring Boot and Node.js. 
     
-    > 👨‍💼 I'm a responsible and dedicated individual, always striving to deliver great results on any project I take on.
+    - 💻 I'm passionate about coding and enjoy learning something new every day. 
     
-    > 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
-
+    - 👨‍💼 I'm a responsible and dedicated individual, always striving to deliver great results on any project I take on.
+    
+    - 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
+    
 <div align="center">    
     <a href="https://jamesblog95.tistory.com/">🔗 Welcome to the James's Tech Blog!</a>
 </div>
