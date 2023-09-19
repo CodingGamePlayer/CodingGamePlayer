@@ -12,7 +12,8 @@
     
     - 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
     
-<div align="center">    
+<div align="center">
+[Link]     
     <a href="https://jamesblog95.tistory.com/">🔗 Welcome to the James's Tech Blog!</a>
 </div>
 <br>
@@ -67,8 +68,10 @@
         </td>
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+            <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
             <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
         </td>
     </tr>
 </table>
