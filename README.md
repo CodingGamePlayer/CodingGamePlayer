@@ -3,15 +3,15 @@
 ## Who's Kr.James?
 
 > **Instroduction**
+```
+- 📚 I'm currently studying backend development and have experience building projects using Spring Boot and Node.js.
 
-    - 📚 I'm currently studying backend development and have experience building projects using Spring Boot and Node.js.
+- 💻 I'm passionate about coding and enjoy learning something new every day.
 
-    - 💻 I'm passionate about coding and enjoy learning something new every day.
+- 👨‍💼 I'm a responsible and dedicated individual, always striving to deliver great results on any project I take on.
 
-    - 👨‍💼 I'm a responsible and dedicated individual, always striving to deliver great results on any project I take on.
-
-    - 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
-
+- 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
+```
 <br>
 
 > **Tech Blog Link**
