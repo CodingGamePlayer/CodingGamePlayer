@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Kr.James%20Profile&fontSize=90)
+
 ## Who's Kr.James?
 
 > **Instroduction**
