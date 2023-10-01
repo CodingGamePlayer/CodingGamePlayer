@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Kr.James%20Profile&fontSize=90&theme=cobalt)
 
+<br>
+
 ## Who's Kr.James?
 
 > **Instroduction**
+<br>
+
 ```
 - 📚 I'm currently studying backend development and have experience building projects using Spring Boot and Node.js.
 
@@ -16,12 +20,15 @@
 
 > **Tech Blog Link**
 
+<br>
+
 Welcome to the [CodeOneSpoon](https://jamesblog95.tistory.com/) 👈 Click Here!
 <br>
 <br>
 
 > **My Tech Stack Table**
 
+<br>
 
 
 ||                     Stacks |
