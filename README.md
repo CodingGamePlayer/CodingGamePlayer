@@ -41,3 +41,19 @@ Welcome to the [CodeOneSpoon](https://jamesblog95.tistory.com/) 👈 Click Here!
 | **Database** | <img height="25" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> |
 | **Dev/Ops** | <img height="25" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/Amazon AWS-225F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>|
 | **Tools** | <img height="25" src="https://img.shields.io/badge/Git-F05025?style=flat-square&logo=Git&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+
+
+<br>
+<br>
+
+> **What do i study**
+
+<br>
+
+| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
+|----|----|----|----|----|----|----|
+|    |    |    |  1 <br> SQLD 문제풀이 및 <br>데이터 모델과 성능 복습 |  2 |  3 |  4 |
+|  5 |  6 |  7 |  8 |  9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 <br> SQLD 시험일|
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 |    |    |
