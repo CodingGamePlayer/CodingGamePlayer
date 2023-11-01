@@ -14,7 +14,7 @@
 
 - 👨‍💼 I'm a responsible and dedicated individual, always striving to deliver great results on any project I take on.
 
-- 🥑 I aim for stable coid writing through TDD and DDD.
+- 🥑 I aim for stable code writing through TDD and DDD.
 
 - 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
 ```
