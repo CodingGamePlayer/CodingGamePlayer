@@ -20,11 +20,13 @@
 ```
 <br>
 
-> **Tech Blog Link**
+> **Links**
 
 <br>
 
-Welcome to the [CodeOneSpoon](https://jamesblog95.tistory.com/) 👈 Click Here!
+Show [my resume](https://codinggameplayer.github.io/)
+Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here!
+
 <br>
 <br>
 
