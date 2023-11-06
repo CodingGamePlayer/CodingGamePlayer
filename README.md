@@ -54,7 +54,7 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 |----|----|----|----|----|----|----|
-|    |    |    | **1** <br> SQLD 문제풀이 <br>[데이터 모델과 성능 복습](https://jamesblog95.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81%EA%B3%BC-%EC%84%B1%EB%8A%A5) | **2** <br> [이력서 업데이트](https://codinggameplayer.github.io/#) <br> [Report 작성](https://jamesblog95.tistory.com/entry/Web-GIS-Image-Rendering-Performance-Optimization-Report)| **3** <br> [SQL vs NoSQL](https://jamesblog95.tistory.com/entry/SQL-vs-NoSQL) <br> JS 중급 문법 공부| **4** <br> [JS Class](https://jamesblog95.tistory.com/entry/JavaScript-Class) <br>
+|    |    |    | **1** <br> SQLD 문제풀이 <br>[데이터 모델과 성능 복습](https://jamesblog95.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81%EA%B3%BC-%EC%84%B1%EB%8A%A5) | **2** <br> [이력서 업데이트](https://codinggameplayer.github.io/#) <br> [Report 작성](https://jamesblog95.tistory.com/entry/Web-GIS-Image-Rendering-Performance-Optimization-Report)| **3** <br> [SQL vs NoSQL](https://jamesblog95.tistory.com/entry/SQL-vs-NoSQL) <br> JS 중급 문법 공부| **4** <br> [JS Class](https://jamesblog95.tistory.com/entry/JavaScript-Class) <br><br>
 | **5** <br> [JS Object](https://jamesblog95.tistory.com/entry/JavaScript-Obejct) <br> [JS Prototype](https://jamesblog95.tistory.com/entry/JavaScript-Prototype)| **6** | **7** | **8** | **9** | **10** | **11** |
 | **12** | **13** | **14** | **15** | **16** | **17** | **18** <br> SQLD 시험일|
 | **19** | **20** | **21** | **22** | **23** | **24** | **25** |
