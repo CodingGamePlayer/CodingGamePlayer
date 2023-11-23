@@ -50,7 +50,6 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 
 > **Studying Calendar**
 
-
 <br>
 
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
