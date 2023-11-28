@@ -59,4 +59,3 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | **12** <br> SQLD 문제 풀이| **13** <br> SQLD 문제풀이| **14** <br> SQLD 문제집 풀이| **15** <br> [MongoDB 명령어](https://jamesblog95.tistory.com/entry/MongoDB-%EB%AA%85%EB%A0%B9%EC%96%B4) <br> SQLD 문제집 풀이| **16** <br> SQLD 문제집 풀이| **17** <br> SQLD 문제집 풀이 | **18** <br> SQLD 문제 풀이 <br> SQLD 시험일|
 | **19** <br> Type Script | **20** <br> React 공부| **21** <br> React 공부| **22** <br> React 공부 | **23** <br> React 공부 | **24**  | **25** |
 | **26** | **27** <br> TypeScript | **28** | **29** | **30** |    |    |
-
