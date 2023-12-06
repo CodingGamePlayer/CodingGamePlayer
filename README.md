@@ -52,7 +52,7 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 
 <br>
 
-### 해야하는 공부
+#### 해야하는 공부
 - rxjs 공부
 - Nest.js testing Module 내부 까보기
 - TypeScript 심화 
