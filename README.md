@@ -52,6 +52,11 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 
 <br>
 
+### 해야하는 공부
+- rxjs 공부
+- Nest.js testing Module 내부 까보기
+- TypeScript 심화 
+
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 |----|----|----|----|----|----|----|
 |    |    |    |    |    | **1** <br>TypeScript  | **2** <br>TypeScript |
