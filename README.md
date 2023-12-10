@@ -61,7 +61,7 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 |----|----|----|----|----|----|----|
 |    |    |    |    |    | **1** <br>TypeScript  | **2** <br>TypeScript |
-| **3** <br>TypeScript | **4** <br> Nest.js Bull| **5** <br> Nest.js Axios | **6** <br>TypeScript | **7** <br>TypeScript | **8** <br>TypeScript| **9** |
+| **3** <br>TypeScript | **4** <br> Nest.js Bull| **5** <br> Nest.js Axios | **6** <br>TypeScript | **7** <br>TypeScript | **8** <br>TypeScript| **9** <br> Rest |
 | **10** <br>TypeScript| **11** | **12** | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
