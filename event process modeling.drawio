@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T10:02:33.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p5H9j7nY-9sOWLuq09yt" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T10:16:44.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jvoX_t2xHLe4wxBNe4mS" version="22.1.9" type="github">
   <diagram name="페이지-1" id="dvB39oBr4QtcS7D_-clN">
-    <mxGraphModel dx="3070" dy="1004" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4717" dy="1934" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,6 +296,9 @@
         <mxCell id="vL9_h5r1cBpTkOoQFscT-138" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-134" target="vL9_h5r1cBpTkOoQFscT-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-213" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.062;entryY=0.607;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;exitX=-0.037;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-135" target="vL9_h5r1cBpTkOoQFscT-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-134" value="Event Process Modeling" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-645" y="2205" width="160" height="80" as="geometry" />
         </mxCell>
@@ -336,19 +339,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-137" value="비즈니스 현행 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="2385" width="160" height="80" as="geometry" />
+          <mxGeometry x="-1320" y="1980" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-139" value="현행 비즈니스를 이해" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1815" y="2190" width="160" height="80" as="geometry" />
+          <mxGeometry x="-1815" y="1785" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-141" value="비즈니스 목표 모델링 정의를&lt;br&gt;위한 기반을 다짐" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1675" y="2325" width="160" height="80" as="geometry" />
+          <mxGeometry x="-1675" y="1920" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-143" value="기존 비즈니스 로직을 정리" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1690" y="2445" width="160" height="80" as="geometry" />
+          <mxGeometry x="-1690" y="2040" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-145" value="문제점을 파악" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1740" y="2655" width="160" height="80" as="geometry" />
+          <mxGeometry x="-1740" y="2250" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-173" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=-0.094;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;entryPerimeter=0;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-147" target="vL9_h5r1cBpTkOoQFscT-171">
           <mxGeometry relative="1" as="geometry" />
@@ -511,6 +514,15 @@
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-206" value="시스템 개발 계획과 비교" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="3645" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-215" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-212" target="vL9_h5r1cBpTkOoQFscT-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-212" value="모델 시나리오" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="2580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-214" value="각 프로세스를 연결하는 단계" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="2655" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
