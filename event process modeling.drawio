@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T08:40:39.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="foMTnNHdi7-1exlkv7uW" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T10:02:33.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p5H9j7nY-9sOWLuq09yt" version="22.1.9" type="github">
   <diagram name="페이지-1" id="dvB39oBr4QtcS7D_-clN">
-    <mxGraphModel dx="3209" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3070" dy="1004" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Event Process&lt;br&gt;Modeling&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="131" y="-120" width="160" height="80" as="geometry" />
+          <mxGeometry x="706" y="-120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-4" target="vL9_h5r1cBpTkOoQFscT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;모델 시나리오&lt;br&gt;작성&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="132" y="340" width="160" height="80" as="geometry" />
+          <mxGeometry x="707" y="340" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#fff2cc;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-6" target="vL9_h5r1cBpTkOoQFscT-37">
           <mxGeometry relative="1" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;비즈니스 프로세스&lt;br&gt;작성&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="131" y="540" width="160" height="80" as="geometry" />
+          <mxGeometry x="706" y="540" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-15" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=1;labelBackgroundColor=none;strokeColor=#E07A5F;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;fillColor=#F2CC8F;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1119" y="260" width="439" height="225" as="geometry" />
+          <mxGeometry x="-45" y="-195" width="439" height="225" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;html=1;" vertex="1" parent="vL9_h5r1cBpTkOoQFscT-15">
           <mxGeometry width="439" height="45" as="geometry" />
@@ -122,92 +122,395 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-37" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;시나리오를 작성하는 기본 단위&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="400" y="540" width="160" height="80" as="geometry" />
+          <mxGeometry x="1055" y="540" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-39" value="요구사항 분석" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;strokeColor=#E07A5F;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="-36" y="115" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-40" value="액터 추출" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;strokeColor=#E07A5F;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="-965" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="109" y="115" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-41" value="액터 중심&lt;br&gt;프로세스 정리" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;strokeColor=#E07A5F;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="-814" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="115" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-42" value="주어 + 목적어 + 동사 형태의 문장" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#E07A5F;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="-1085" y="676" width="340" height="40" as="geometry" />
+          <mxGeometry x="-11" y="221" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-47" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#fff2cc;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-43" target="vL9_h5r1cBpTkOoQFscT-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-43" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;액터를 구분&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="670" y="544" width="160" height="80" as="geometry" />
+          <mxGeometry x="1325" y="544" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-51" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#fff2cc;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-46" target="vL9_h5r1cBpTkOoQFscT-50">
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-104" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-46" target="vL9_h5r1cBpTkOoQFscT-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-46" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;동사가 되는 부분인&lt;br&gt;프로세스를 작성&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="670" y="740" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-50" value="1:1 관계로 작성" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="920" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="1605" y="544" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-65" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-60" target="vL9_h5r1cBpTkOoQFscT-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-60" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;프로세스 연결&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="131" y="740" width="160" height="80" as="geometry" />
+          <mxGeometry x="706" y="740" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-64" target="vL9_h5r1cBpTkOoQFscT-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-40" y="790" />
+              <mxPoint x="435" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-64" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;시나리오 검토&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="131" y="940" width="160" height="80" as="geometry" />
+          <mxGeometry x="706" y="940" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-76" value="&lt;h1&gt;시나리오 검토&lt;/h1&gt;- 분석가와 사용자가 함께 검토하는 단계&lt;br&gt;-&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Tahoma; text-align: center;&quot;&gt;지속적으로 요구사항이 추가 될 수 있음&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;spacing=15;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=12;fontFamily=Helvetica;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="970" width="320" height="120" as="geometry" />
+          <mxGeometry x="9" y="1065" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-79" value="&lt;h1&gt;프로세스 연결&lt;/h1&gt;-&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center; color: rgb(57, 60, 86);&quot;&gt;작성된 프로세스를&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: center; color: rgb(57, 60, 86);&quot;&gt;연결 하는 단계&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;spacing=15;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=12;fontFamily=Helvetica;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="740" width="320" height="120" as="geometry" />
+          <mxGeometry x="9" y="835" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-80" value="&lt;h1&gt;비즈니스 프로세스 작성&lt;/h1&gt;-&amp;nbsp;유저 시나리오의&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: center; color: rgb(57, 60, 86);&quot;&gt;기반해서 실질적으로&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: center; color: rgb(57, 60, 86);&quot;&gt;수행되는 프로세스&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;spacing=15;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=12;fontFamily=Helvetica;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="500" width="320" height="120" as="geometry" />
+          <mxGeometry x="9" y="595" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-81" value="&lt;h1&gt;모델 시나리오 작성&lt;/h1&gt;-&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;유저가 사용하는&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: center; color: rgb(57, 60, 86);&quot;&gt;입장에서 정의 되는&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: center; color: rgb(57, 60, 86);&quot;&gt;흐름&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;spacing=15;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=12;fontFamily=Helvetica;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="290" width="320" height="120" as="geometry" />
+          <mxGeometry x="9" y="385" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-90" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-85" target="vL9_h5r1cBpTkOoQFscT-89">
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-90" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#fff2cc;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-85" target="vL9_h5r1cBpTkOoQFscT-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-85" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;RA 수행&lt;br&gt;(Requirement Analysis)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="160" height="80" as="geometry" />
+          <mxGeometry x="705" y="140" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-92" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-89" target="vL9_h5r1cBpTkOoQFscT-91">
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-92" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#fff2cc;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-89" target="vL9_h5r1cBpTkOoQFscT-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-89" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;참여자 검토&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="691" y="140" width="160" height="80" as="geometry" />
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-89" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;참여자 검토&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="-105" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-94" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-91" target="vL9_h5r1cBpTkOoQFscT-93">
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-94" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#fff2cc;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-91" target="vL9_h5r1cBpTkOoQFscT-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-91" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;시스템 목표 지정&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="971" y="140" width="160" height="80" as="geometry" />
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-91" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;시스템 목표 지정&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="-105" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-96" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-93" target="vL9_h5r1cBpTkOoQFscT-95">
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-100" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#fff2cc;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-93" target="vL9_h5r1cBpTkOoQFscT-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-93" value="Event Process 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="140" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vL9_h5r1cBpTkOoQFscT-95" value="비즈니스 현행 모델링&lt;br&gt;비즈니스 목표 모델링" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1271" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-93" value="Event Process 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="-105" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vL9_h5r1cBpTkOoQFscT-98" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=-0.054;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-85" target="vL9_h5r1cBpTkOoQFscT-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-106" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-99" target="vL9_h5r1cBpTkOoQFscT-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-99" value="비즈니스 현행 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="75" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-103" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;1 : 1 관계로 프로세스를 작성&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1885" y="544" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-109" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-105" target="vL9_h5r1cBpTkOoQFscT-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-105" value="현행 비즈니스 프로세스 파악" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="75" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-112" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-108" target="vL9_h5r1cBpTkOoQFscT-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-108" value="문제점, 해결방안, 장점파악" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="75" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-111" value="비즈니스 목표 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="255" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-116" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-113" target="vL9_h5r1cBpTkOoQFscT-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-113" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;비즈니스 현행 모델링&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="117.33" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-118" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-115" target="vL9_h5r1cBpTkOoQFscT-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-115" value="비즈니스 목표 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="317.33" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-120" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-117" target="vL9_h5r1cBpTkOoQFscT-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-117" value="유즈케이스 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="517.33" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-122" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-119" target="vL9_h5r1cBpTkOoQFscT-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-119" value="시스템 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="717.33" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-121" value="프로토타입 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="917.33" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-123" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fontColor=#333333;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#dae8fc;edgeStyle=none;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-780" y="252.33" as="sourcePoint" />
+            <mxPoint x="-360" y="252.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-124" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fontColor=#333333;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#dae8fc;edgeStyle=none;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-780" y="657.33" as="sourcePoint" />
+            <mxPoint x="-360" y="657.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-125" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fontColor=#333333;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#dae8fc;edgeStyle=none;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-780" y="852.33" as="sourcePoint" />
+            <mxPoint x="-360" y="852.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-126" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fontColor=#333333;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#dae8fc;edgeStyle=none;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-780" y="1047.33" as="sourcePoint" />
+            <mxPoint x="-360" y="1047.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-130" value="요구사항 이해" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-945" y="117.33" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-131" value="요구사항 정의" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-945" y="417.33" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-132" value="요구사항 분석" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-945" y="717.33" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-133" value="요구사항 확정" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-945" y="912.33" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-136" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-134" target="vL9_h5r1cBpTkOoQFscT-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-138" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-134" target="vL9_h5r1cBpTkOoQFscT-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-134" value="Event Process Modeling" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="2205" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-148" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-135" target="vL9_h5r1cBpTkOoQFscT-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-152" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-135" target="vL9_h5r1cBpTkOoQFscT-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-158" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-135" target="vL9_h5r1cBpTkOoQFscT-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-162" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-135" target="vL9_h5r1cBpTkOoQFscT-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-166" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-135" target="vL9_h5r1cBpTkOoQFscT-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-168" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-135" target="vL9_h5r1cBpTkOoQFscT-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-172" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-135" target="vL9_h5r1cBpTkOoQFscT-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-135" value="비즈니스 목표 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="2610" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-140" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-137" target="vL9_h5r1cBpTkOoQFscT-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-142" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-137" target="vL9_h5r1cBpTkOoQFscT-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-144" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-137" target="vL9_h5r1cBpTkOoQFscT-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-146" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-137" target="vL9_h5r1cBpTkOoQFscT-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-137" value="비즈니스 현행 모델링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="2385" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-139" value="현행 비즈니스를 이해" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1815" y="2190" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-141" value="비즈니스 목표 모델링 정의를&lt;br&gt;위한 기반을 다짐" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1675" y="2325" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-143" value="기존 비즈니스 로직을 정리" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="2445" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-145" value="문제점을 파악" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="2655" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-173" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=-0.094;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;entryPerimeter=0;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-147" target="vL9_h5r1cBpTkOoQFscT-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-147" value="문제점에 대한 해결방안 도안" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="2405" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-156" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-151" target="vL9_h5r1cBpTkOoQFscT-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-151" value="시나리오 목표 정의" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="2965" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-155" value="여러 개의 시나리오의 목표를 정의함으로써 이후의 방향성이 정해짐" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="3125" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-160" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-157" target="vL9_h5r1cBpTkOoQFscT-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-157" value="비즈니스 프로세스의 수" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="2925" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-159" value="하나의 시나리오에 10~15개 정도의 프로세스만 정의하는 것이 좋음" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="3105" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-164" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-161" target="vL9_h5r1cBpTkOoQFscT-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-161" value="액터를 구분" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="2940" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-163" value="다른 액터라도 같은 프로세스를 사용할 수 있음" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-735" y="3090" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-165" value="너무 세밀하게 구분해도 문제가 됨." style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-975" y="2940" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-170" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-167" target="vL9_h5r1cBpTkOoQFscT-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-198" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-167" target="vL9_h5r1cBpTkOoQFscT-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-199" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-167" target="vL9_h5r1cBpTkOoQFscT-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-201" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-167" target="vL9_h5r1cBpTkOoQFscT-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-167" value="온&amp;amp;오프라인 비즈니스 프로세스 정의" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="2835" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-169" value="온라인과 오프라인이 연결이 되어저 작동할 수 있도록 해야함." style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="3045" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-175" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-171" target="vL9_h5r1cBpTkOoQFscT-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-177" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-171" target="vL9_h5r1cBpTkOoQFscT-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-179" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-171" target="vL9_h5r1cBpTkOoQFscT-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-181" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-171" target="vL9_h5r1cBpTkOoQFscT-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-171" value="요구사항" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-171" y="2700" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-174" value="사용자가 제시한 요구사항" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="251" y="2525" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-176" value="사용자가 제사하지 않은 요구사항" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="267" y="2660" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-178" value="분석가가 파악한 요구사항" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="242" y="2800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-183" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-180" target="vL9_h5r1cBpTkOoQFscT-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-185" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-180" target="vL9_h5r1cBpTkOoQFscT-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-187" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-180" target="vL9_h5r1cBpTkOoQFscT-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-189" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-180" target="vL9_h5r1cBpTkOoQFscT-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-191" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-180" target="vL9_h5r1cBpTkOoQFscT-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-193" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-180" target="vL9_h5r1cBpTkOoQFscT-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-180" value="요구사항 상태" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="213" y="2940" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-182" value="현행 비즈니스 프로세스를 변경없이 그대로 사용" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2690" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-195" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-184" target="vL9_h5r1cBpTkOoQFscT-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-184" value="현행 비즈니스 프로세스가 요구사항을 포함하고 있다" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2815" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-197" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-186" target="vL9_h5r1cBpTkOoQFscT-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-186" value="요구사항이 현행 비즈니스를 포함한다" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2940" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-188" value="현행 비즈니스 프로세스를 변경" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="660" y="3065" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-190" value="요구사항이 현행 비즈니스 프로세에 없다" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="660" y="3185" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-192" value="현행 비즈니스 프로세르를 사용하지 않는다" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="660" y="3310" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-194" value="요구사항이 현행 비즈니스 프로세스 보다 작은 경우" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2815" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-196" value="요구사항이 현행 비즈니스 프로세스 보다 큰 경우" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2940" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-203" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-200" target="vL9_h5r1cBpTkOoQFscT-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-200" value="온라인 비즈니스 프로세스&lt;br&gt;추출" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1440" y="3045" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-205" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-202" target="vL9_h5r1cBpTkOoQFscT-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-202" value="유즈케이스 변환" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1440" y="3245" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-207" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-204" target="vL9_h5r1cBpTkOoQFscT-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-204" value="유즈케이스 리스트 작성" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1440" y="3445" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-208" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.031;entryY=0.557;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#333333;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#F2CC8F;entryPerimeter=0;" edge="1" parent="1" source="vL9_h5r1cBpTkOoQFscT-206" target="vL9_h5r1cBpTkOoQFscT-204">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1545" y="3570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-209" value="개발 범위 재선정" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=#333333;" vertex="1" connectable="0" parent="vL9_h5r1cBpTkOoQFscT-208">
+          <mxGeometry x="0.3109" y="-23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vL9_h5r1cBpTkOoQFscT-206" value="시스템 개발 계획과 비교" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-1440" y="3645" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
