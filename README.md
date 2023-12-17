@@ -58,7 +58,6 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 - TypeScript 심화
 - TypeORM 공부
 
-
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 |----|----|----|----|----|----|----|
 |    |    |    |    |    | **1** <br>TypeScript  | **2** <br>TypeScript |
