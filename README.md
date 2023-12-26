@@ -64,5 +64,5 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | **3** <br>TypeScript | **4** <br> Nest.js Bull| **5** <br> Nest.js Axios | **6** <br>TypeScript | **7** <br>TypeScript | **8** <br>TypeScript| **9** <br> Rest |
 | **10** <br>TypeScript| **11** <br>TypeScript | **12** <br>TypeScript | **13** <br>Node.js Event Architecture | **14** <br> 요구사항 분석  | **15** <br> 요구사항 분석 | **16** <br> 요구사항 분석 |
 | **17** <br> 요구사항 분석 | **18** <br> 요구사항 분석 | **19** <br> 요구사항 분석| **20** <br> Java Script| **21** <br> Java Script| **22** <br> Rest| **23** <br> Rest|
-| **24** | **25** | **26** | **27** | **28** | **29** | **30** |
+| **24** <br> Rest | **25** <br> Rest | **26** <br> Rest | **27** | **28** | **29** | **30** |
 | **31** |    |    |    |    |    |    |
