@@ -49,7 +49,6 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 <br>
 
 > **Studying Calendar**
-
 <br>
 
 #### 해야하는 공부
