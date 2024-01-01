@@ -56,11 +56,10 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 - Nest.js testing Module 내부 까보기
 - TypeORM 공부
 
-| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
-|----|----|----|----|----|----|----|
-|    |    |    |    |    | **1** <br>TypeScript  | **2** <br>TypeScript |
-| **3** <br>TypeScript | **4** <br> Nest.js Bull| **5** <br> Nest.js Axios | **6** <br>TypeScript | **7** <br>TypeScript | **8** <br>TypeScript| **9** <br> Rest |
-| **10** <br>TypeScript| **11** <br>TypeScript | **12** <br>TypeScript | **13** <br>Node.js Event Architecture | **14** <br> 요구사항 분석  | **15** <br> 요구사항 분석 | **16** <br> 요구사항 분석 |
-| **17** <br> 요구사항 분석 | **18** <br> 요구사항 분석 | **19** <br> 요구사항 분석| **20** <br> Java Script| **21** <br> Java Script| **22** <br> Rest| **23** <br> Rest|
-| **24** <br> Rest | **25** <br> Rest | **26** <br> Rest | **27** <br> JS| **28** <br> JS | **29** JS| **30** Rest|
-| **31** <br> JS|    |    |    |    |    |    |
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 <br> JS| 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 31 |  |  |  |  |
