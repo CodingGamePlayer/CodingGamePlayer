@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T14:52:13.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3XHG9C5VpUiV0SgIVUhS" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-08T15:08:21.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="shqKANhUleUekSc1lHvh" version="22.1.16" type="github" pages="2">
   <diagram name="페이지-1" id="7tEdZy4TTa0kL3ofJj6Q">
     <mxGraphModel dx="1886" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -416,7 +416,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PreS02GUY70elbyzS5D_" name="페이지-2">
-    <mxGraphModel dx="8371" dy="3556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7114" dy="2963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,25 +439,25 @@
           <mxGeometry x="-50" y="570" width="1180" height="1290" as="geometry" />
         </mxCell>
         <mxCell id="CLmMiWkLYGzM4xCE3e-k-1" value="사용자" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;direction=west;gradientDirection=north;shadow=0;size=20;pointerEvents=1;gradientColor=#97d077;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="260" y="200" width="140" height="40" as="geometry" />
+          <mxGeometry x="350" y="200" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CLmMiWkLYGzM4xCE3e-k-3" value="커맨드" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;direction=west;gradientDirection=north;shadow=0;size=20;pointerEvents=1;gradientColor=#7ea6e0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="430" y="50" width="140" height="160" as="geometry" />
+          <mxGeometry x="520" y="50" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CLmMiWkLYGzM4xCE3e-k-4" value="에그리깃" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffcd28;strokeColor=#d79b00;fillStyle=solid;direction=west;gradientDirection=north;shadow=0;size=20;pointerEvents=1;gradientColor=#ffa500;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="590" y="220" width="140" height="160" as="geometry" />
+          <mxGeometry x="680" y="220" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CLmMiWkLYGzM4xCE3e-k-5" value="정책" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e6d0de;strokeColor=#996185;fillStyle=solid;direction=west;gradientDirection=north;shadow=0;size=20;pointerEvents=1;gradientColor=#d5739d;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="430" y="220" width="140" height="160" as="geometry" />
+          <mxGeometry x="520" y="220" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CLmMiWkLYGzM4xCE3e-k-6" value="외부 서버" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;direction=west;gradientDirection=north;shadow=0;size=20;pointerEvents=1;gradientColor=#ea6b66;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="750" y="220" width="140" height="160" as="geometry" />
+          <mxGeometry x="840" y="220" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CLmMiWkLYGzM4xCE3e-k-7" value="도메인 이벤트" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=solid;direction=west;gradientDirection=north;shadow=0;size=20;pointerEvents=1;gradientColor=#ffd966;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="590" y="50" width="140" height="160" as="geometry" />
+          <mxGeometry x="680" y="50" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CLmMiWkLYGzM4xCE3e-k-8" value="핫스" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=solid;direction=west;gradientDirection=north;shadow=0;size=20;pointerEvents=1;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="750" y="50" width="140" height="160" as="geometry" />
+          <mxGeometry x="840" y="50" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fE8AZaJL1kFvddis2aNe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLmMiWkLYGzM4xCE3e-k-9" target="CLmMiWkLYGzM4xCE3e-k-13">
           <mxGeometry relative="1" as="geometry" />
