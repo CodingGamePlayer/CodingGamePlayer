@@ -59,7 +59,7 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 <br> JS| 2 <br> JS| 3 <br> MSA| 4 <br> MSA| 5 <br> MSA| 6<br> REST | 7 <br> MSA|
-| 8 <br> MSA| 9 | 10 | 11 | 12 | 13 | 14 |
+| 8 <br> MSA| 9 <br> ELK| 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |  |  |  |  |
