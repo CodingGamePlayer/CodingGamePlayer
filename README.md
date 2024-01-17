@@ -60,6 +60,6 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 <br> JS| 2 <br> JS| 3 <br> MSA| 4 <br> MSA| 5 <br> MSA| 6 <br> REST | 7 <br> MSA|
 | 8 <br> MSA| 9 <br> ELK| 10 <br> ELK | 11 <br> ELK | 12 <br> REST | 13 <br> REST | 14 <br> REST |
-| 15 <br> Dev | 16 <br> 네관2급 | 17 | 18 | 19 | 20 | 21 |
+| 15 <br> Dev | 16 <br> 정처기 | 17 <br> 정처기 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
 | 29 | 30 | 31 |  |  |  |  |
