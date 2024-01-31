@@ -62,5 +62,5 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | 8 <br> MSA| 9 <br> ELK| 10 <br> ELK | 11 <br> ELK | 12 <br> REST | 13 <br> REST | 14 <br> REST |
 | 15 <br> Dev | 16 <br> Dev | 17 <br> Dev | 18 <br> 정처기| 19 <br> 정처기 | 20 <br> REST | 21 <br> 정처기|
 | 22 <br> 정처기 | 23 <br> Dev| 24 <br> Dev| 25 <br> Dev| 26 <br> REST| 27  <br> Dev| 28 <br> Dev|
-| 29 <br> 정처기| 30 29 <br> 정처기| 31 |  |  |  |  |
+| 29 <br> 정처기| 30 29 <br> 정처기| 31 <br> 정처기|  |  |  |  |
 
