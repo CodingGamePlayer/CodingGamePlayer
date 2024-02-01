@@ -56,11 +56,13 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 - Nest.js testing Module 내부 까보기
 - TypeORM 공부
 
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 <br> JS| 2 <br> JS| 3 <br> MSA| 4 <br> MSA| 5 <br> MSA| 6 <br> REST | 7 <br> MSA|
-| 8 <br> MSA| 9 <br> ELK| 10 <br> ELK | 11 <br> ELK | 12 <br> REST | 13 <br> REST | 14 <br> REST |
-| 15 <br> Dev | 16 <br> Dev | 17 <br> Dev | 18 <br> 정처기| 19 <br> 정처기 | 20 <br> REST | 21 <br> 정처기|
-| 22 <br> 정처기 | 23 <br> Dev| 24 <br> Dev| 25 <br> Dev| 26 <br> REST| 27  <br> Dev| 28 <br> Dev|
-| 29 <br> 정처기| 30 29 <br> 정처기| 31 <br> 정처기|  |  |  |  |
+| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
+| -- | -- | -- | -- | -- | -- | -- |
+|    |    |    |    |  1 <br> 정처기|  2 |  3 |
+|  4 |  5 |  6 |  7 |  8 |  9 | 10 |
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 |    |    |
+
+
 
