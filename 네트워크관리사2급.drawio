@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T14:35:18.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="p9rNIgfmRuwEYzAIV7I5" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T14:38:07.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-h6XmM3J6pUMYz6GwWQI" version="23.1.4" type="github">
   <diagram name="페이지-1" id="znIH17bBNBUMtTM8fHJ4">
     <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,24 @@
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-43" value="접속제어 : 연결 설정, 데이터 전송, 연결 해제&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-39">
           <mxGeometry y="120" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-45" value="RAID" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="720" width="390" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-46" value="RAID 0 : 스트라이핑, 데이터를 여러 디스크에 분산시켜 저장" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-45">
+          <mxGeometry y="30" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-47" value="RAID 1 : 미러링&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-45">
+          <mxGeometry y="60" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-48" value="RAID 3 : 해밍코드" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-45">
+          <mxGeometry y="90" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-50" value="RAID 4 : 패리티 블록단위" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-45">
+          <mxGeometry y="120" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-49" value="RAID 5 : 회전 패리티 방식" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-45">
+          <mxGeometry y="150" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
