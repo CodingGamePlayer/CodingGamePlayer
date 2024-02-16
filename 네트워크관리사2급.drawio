@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T14:20:03.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8mfXF2A0H7b2sp9eoETG" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T14:35:18.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="p9rNIgfmRuwEYzAIV7I5" version="23.1.4" type="github">
   <diagram name="페이지-1" id="znIH17bBNBUMtTM8fHJ4">
     <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="307.5" y="55" width="225" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-9" value="용어" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="350" width="940" height="590" as="geometry" />
+          <mxGeometry x="140" y="350" width="1020" height="590" as="geometry" />
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-10" value="프로토콜" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-9">
           <mxGeometry x="40" y="50" width="380" height="260" as="geometry" />
@@ -47,19 +47,22 @@
           <mxGeometry y="30" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-21" value="cmd 명령어" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-9">
-          <mxGeometry x="480" y="150" width="380" height="150" as="geometry" />
+          <mxGeometry x="480" y="150" width="490" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-22" value="nslookup : 도메인 정보 조회" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-21">
-          <mxGeometry y="30" width="380" height="30" as="geometry" />
+          <mxGeometry y="30" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-23" value="tracert : 네트워크 경로 확인&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-21">
-          <mxGeometry y="60" width="380" height="30" as="geometry" />
+          <mxGeometry y="60" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-24" value="ping : 네트워크 상태 점검" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-21">
-          <mxGeometry y="90" width="380" height="30" as="geometry" />
+          <mxGeometry y="90" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-25" value="traceroute : 네트워크 테스트, 측정 및 관리에 사용" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-21">
-          <mxGeometry y="120" width="380" height="30" as="geometry" />
+          <mxGeometry y="120" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-44" value="pathping: 출발지에서 목적지까지의 경로를 추적하고 각 홉에서 발생하는 지연을 분석" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-21">
+          <mxGeometry y="150" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-30" value="스위치" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-9">
           <mxGeometry x="50" y="380" width="140" height="150" as="geometry" />
@@ -96,6 +99,21 @@
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-28" value="224 -&amp;gt; 11100000&lt;br&gt;0인 갯수 만큼 주소를 사용가능&lt;br&gt;0을 1로 변환하고 2진수로 계산 이후 더하면 31이 나옴" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-26">
           <mxGeometry x="30" y="100" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-39" value="제어" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="430" width="510" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-40" value="에러제어 : 오류가 발생하면 재전송요구하거나 직접 오류를 복구" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-39">
+          <mxGeometry y="30" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-41" value="순서제어 : 각 패킷에 시퀀스 번호를 부여하여 순서 지정" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-39">
+          <mxGeometry y="60" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-42" value="흐름제어 : 수신자측에서 데이터 양이나 속도 조절 (슬라이딩윈도우)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-39">
+          <mxGeometry y="90" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-43" value="접속제어 : 연결 설정, 데이터 전송, 연결 해제&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nkk0zGPkz9TdS-OdN86z-39">
+          <mxGeometry y="120" width="510" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
