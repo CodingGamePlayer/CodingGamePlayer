@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T15:50:59.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="DHx0_rU9iUx6Yfzena1u" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T16:01:29.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="26Bj757OodsK6TvneKXz" version="23.1.5" type="github">
   <diagram name="페이지-1" id="LLyEaONwCXFqWk8P6sKv">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0O6cxylZO8Fvl_qyqhEw-1" target="0O6cxylZO8Fvl_qyqhEw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0O6cxylZO8Fvl_qyqhEw-1" target="0O6cxylZO8Fvl_qyqhEw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-1" value="Next.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0O6cxylZO8Fvl_qyqhEw-2" target="0O6cxylZO8Fvl_qyqhEw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0O6cxylZO8Fvl_qyqhEw-2" target="0O6cxylZO8Fvl_qyqhEw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-2" value="CSR의 문제를 해결 하기 위함" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0O6cxylZO8Fvl_qyqhEw-4" target="0O6cxylZO8Fvl_qyqhEw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-4" value="SEO에 문제가 있음" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-6" value="SSR 사용" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-8" value="다운로드 되는 과정에서 크롤링을 불가함" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0O6cxylZO8Fvl_qyqhEw-10" target="0O6cxylZO8Fvl_qyqhEw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-10" value="Pre Render" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0O6cxylZO8Fvl_qyqhEw-12" value="Clent Side 에서 자바스크립트를 처리 하기전에 HTML을 생성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
