@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T16:10:10.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="QdY-AFlk0oBrrN3EblhH" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T15:29:27.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="C-AlWpuPu7USyNjBb25b" version="23.1.5" type="github">
   <diagram name="페이지-1" id="znIH17bBNBUMtTM8fHJ4">
-    <mxGraphModel dx="2391" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1154" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,10 +76,10 @@
         <mxCell id="nkk0zGPkz9TdS-OdN86z-35" value="cast" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="nkk0zGPkz9TdS-OdN86z-9" vertex="1">
           <mxGeometry x="50" y="780" width="530" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nkk0zGPkz9TdS-OdN86z-36" value="Multicast : 하나의 호스트가 네트워크 내의 정해진 호스트 그룹으로 메세지를 보내는 것" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="nkk0zGPkz9TdS-OdN86z-35" vertex="1">
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-37" value="Broadcast : 하나의 호스트가 네트워크 내의 모든 호스트에게 메세지를 보내는 것" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="nkk0zGPkz9TdS-OdN86z-35" vertex="1">
           <mxGeometry y="30" width="530" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nkk0zGPkz9TdS-OdN86z-37" value="Broadcast : 하나의 호스트가 네트워크 내의 모든 호스트에게 메세지를 보내는 것" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="nkk0zGPkz9TdS-OdN86z-35" vertex="1">
+        <mxCell id="nkk0zGPkz9TdS-OdN86z-36" value="Multicast : 하나의 호스트가 네트워크 내의 정해진 호스트 그룹으로 메세지를 보내는 것" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="nkk0zGPkz9TdS-OdN86z-35" vertex="1">
           <mxGeometry y="60" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nkk0zGPkz9TdS-OdN86z-38" value="Unicast : 하나의 호스트가 네트워크 내이 하나의 호스트로 메세지를 보내는 것" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="nkk0zGPkz9TdS-OdN86z-35" vertex="1">
