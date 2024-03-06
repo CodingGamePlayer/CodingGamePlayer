@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T06:05:19.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="22.1.16" etag="R6XHodjW9lCCKELumc5V" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T06:07:06.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pfZmWsluFB9aSKwDEbU9" version="22.1.16" type="github">
   <diagram name="페이지-1" id="RbtyITWIb4wQIsUO1Foq">
-    <mxGraphModel>
+    <mxGraphModel dx="1179" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDFzuWn7TwJe1WQt8XSV-1" target="QDFzuWn7TwJe1WQt8XSV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-1" value="Domain Event&lt;br&gt;추출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDFzuWn7TwJe1WQt8XSV-2" target="QDFzuWn7TwJe1WQt8XSV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-2" value="Hot Spot 추출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDFzuWn7TwJe1WQt8XSV-4" target="QDFzuWn7TwJe1WQt8XSV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-4" value="Command 추출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDFzuWn7TwJe1WQt8XSV-6" target="QDFzuWn7TwJe1WQt8XSV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-6" value="Actor 추출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDFzuWn7TwJe1WQt8XSV-8" target="QDFzuWn7TwJe1WQt8XSV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-8" value="Policy 추출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDFzuWn7TwJe1WQt8XSV-10" target="QDFzuWn7TwJe1WQt8XSV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-10" value="External System 추출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDFzuWn7TwJe1WQt8XSV-12" value="Aggregate 추출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
