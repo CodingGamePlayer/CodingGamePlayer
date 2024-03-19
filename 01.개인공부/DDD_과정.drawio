@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T05:55:46.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cqe2dm2POuK9jQ82HBgq" version="24.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-19T05:36:49.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9505911qfB3cmL3DYnaq" version="24.0.6" type="github" pages="2">
   <diagram name="페이지-1" id="RbtyITWIb4wQIsUO1Foq">
     <mxGraphModel dx="2206" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="yixfBs6hLGN7FGdLV5Af" name="페이지-2">
-    <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="yixfBs6hLGN7FGdLV5Af" name="헥사고널아키텍처">
+    <mxGraphModel dx="2868" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
