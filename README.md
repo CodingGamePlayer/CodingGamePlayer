@@ -68,4 +68,3 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | 24 | 25 <br> 네관 2급 실기| 26 <br> 네관 2급 실기| 27 | 28 | 29 | 30 |
 | 31 |   |   |   |   |   |   |
 
-
