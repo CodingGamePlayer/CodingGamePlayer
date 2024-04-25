@@ -68,4 +68,3 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | 21 <br> Rest| 22 <br> Rest| 23 <br> Figma <br> Next.js| 24 <br> Next.js| 25| 26| 27|
 | 28| 29| 30|   |   |   |   |
 
-
