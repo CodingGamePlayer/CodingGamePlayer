@@ -65,6 +65,6 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 |   | 1 <br> 정처기| 2<br> 정처기 | 3 <br> 정처기| 4<br> 정처기 | 5 <br> 정처기| 6 <br> 정처기|
 | 7<br> 정처기 | 8 <br> 정처기 | 9 <br> 정처기| 10 <br> 정처기| 11 <br> 정처기| 12 <br> Rest| 13 <br> Rest|
 | 14 <br> 정처기| 15 <br> 정처기| 16 <br> 정처기| 17 <br> Rest| 18 <br> 정처기| 19 <br> Rest| 20 <br> Rest|
-| 21 <br> Rest| 22 <br> Rest| 23 <br> Figma <br> Next.js| 24 <br> Next.js| 25 <br> Rest| 26 <br> Next.js| 27|
-| 28| 29| 30|   |   |   |   |
+| 21 <br> Rest| 22 <br> Rest| 23 <br> Figma <br> Next.js| 24 <br> Next.js| 25 <br> Rest| 26 <br> Next.js| 27 <br> Next.js|
+| 28 <br> Next.js| 29| 30|   |   |   |   |
 
