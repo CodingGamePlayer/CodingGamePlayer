@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T15:38:43.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cb6wi4Noq4wo2JgmJfUf" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T15:40:35.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="veBJg3G9lwNV2NF8JQRK" version="24.3.1" type="github">
   <diagram name="페이지-1" id="zOAeg8T45N49be0nf4yD">
-    <mxGraphModel dx="2206" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,6 +43,50 @@
         </mxCell>
         <mxCell id="T2-gsKvPVnzZv-vGDISG-11" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;React 기본 구조&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="110" width="590" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2-gsKvPVnzZv-vGDISG-12" target="T2-gsKvPVnzZv-vGDISG-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="860" />
+              <mxPoint x="240" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-15" value="상태 제어 함수 + 속성" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2-gsKvPVnzZv-vGDISG-14">
+          <mxGeometry x="-0.0132" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-12" value="Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-13" value="Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="T2-gsKvPVnzZv-vGDISG-19" target="T2-gsKvPVnzZv-vGDISG-20" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="860" />
+              <mxPoint x="480" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-18" value="속성" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2-gsKvPVnzZv-vGDISG-17">
+          <mxGeometry x="-0.0132" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-19" value="Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-20" value="Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-21" value="유상태 컴포넌트" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="620" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-22" value="무상태 컴포넌트" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="200" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
