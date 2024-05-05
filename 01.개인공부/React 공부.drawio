@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T15:40:35.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="veBJg3G9lwNV2NF8JQRK" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T15:46:36.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ae5JfSOYQpub2x0S8QVV" version="24.3.1" type="github" pages="2">
   <diagram name="페이지-1" id="zOAeg8T45N49be0nf4yD">
-    <mxGraphModel dx="1024" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="554" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,6 +88,20 @@
         <mxCell id="T2-gsKvPVnzZv-vGDISG-22" value="무상태 컴포넌트" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="620" width="200" height="340" as="geometry" />
         </mxCell>
+        <mxCell id="T2-gsKvPVnzZv-vGDISG-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Element&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;React 엘리먼트는&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;margin: 0px; padding: 0px; box-sizing: inherit; background-color: rgba(187, 239, 253, 0.3); color: rgb(26, 26, 26); text-decoration-line: none; border-bottom: 1px solid rgba(0, 0, 0, 0.2); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot; href=&quot;https://ko.wikipedia.org/wiki/%EB%B6%88%EB%B3%80%EA%B0%9D%EC%B2%B4&quot;&gt;불변객체&lt;/a&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;입니다. 엘리먼트를 생성한 이후에는 해당 엘리먼트의 자식이나 속성을 변경할 수 없습니다. 엘리먼트는 영화에서 하나의 프레임과 같이 특정 시점의 UI를 보여줍니다.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="290" width="370" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FA-iPjcQ_C9Vn1fqMLGA-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;props&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;함수 컴포넌트나 클래스 컴포넌트 모두 컴포넌트의 자체 props를 수정해서는 안 됩니다&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;margin: 0px; padding: 0px; box-sizing: inherit; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;모든 React 컴포넌트는 자신의 props를 다룰 때 반드시 순수 함수처럼 동작해야 합니다.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="730" width="400" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JV7vmqex92Uz3KkzgDQ9" name="페이지-2">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
