@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T15:46:36.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ae5JfSOYQpub2x0S8QVV" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-05T16:06:59.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3mrVr6-5uYrB5oQKl3hw" version="24.3.1" type="github" pages="2">
   <diagram name="페이지-1" id="zOAeg8T45N49be0nf4yD">
-    <mxGraphModel dx="554" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,46 @@
         </mxCell>
         <mxCell id="FA-iPjcQ_C9Vn1fqMLGA-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;props&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;함수 컴포넌트나 클래스 컴포넌트 모두 컴포넌트의 자체 props를 수정해서는 안 됩니다&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;margin: 0px; padding: 0px; box-sizing: inherit; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;모든 React 컴포넌트는 자신의 props를 다룰 때 반드시 순수 함수처럼 동작해야 합니다.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="730" width="400" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nPMxnXr1y_mv6cNNuZ6e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPMxnXr1y_mv6cNNuZ6e-1" target="nPMxnXr1y_mv6cNNuZ6e-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPMxnXr1y_mv6cNNuZ6e-5" value="상태 끌어올리기" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPMxnXr1y_mv6cNNuZ6e-4">
+          <mxGeometry x="-0.0105" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPMxnXr1y_mv6cNNuZ6e-1" value="Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPMxnXr1y_mv6cNNuZ6e-2" value="Component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPMxnXr1y_mv6cNNuZ6e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPMxnXr1y_mv6cNNuZ6e-3" target="nPMxnXr1y_mv6cNNuZ6e-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPMxnXr1y_mv6cNNuZ6e-7" value="상태 함수 제공" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nPMxnXr1y_mv6cNNuZ6e-6">
+          <mxGeometry x="0.0598" relative="1" as="geometry">
+            <mxPoint x="-3" y="-44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPMxnXr1y_mv6cNNuZ6e-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nPMxnXr1y_mv6cNNuZ6e-3" target="nPMxnXr1y_mv6cNNuZ6e-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPMxnXr1y_mv6cNNuZ6e-3" value="Component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
