@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T16:06:59.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3mrVr6-5uYrB5oQKl3hw" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-05T20:52:59.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qwO6CKAqsR3sm3DqOhlO" version="24.3.1" type="github" pages="2">
   <diagram name="페이지-1" id="zOAeg8T45N49be0nf4yD">
-    <mxGraphModel dx="989" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,10 +138,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JV7vmqex92Uz3KkzgDQ9" name="페이지-2">
-    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="694" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-6" value="Class Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-8" value="componentDidMount" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NB6fT7P_LlFqN1GJujJi-6">
+          <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-9" value="componentDidUpdate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NB6fT7P_LlFqN1GJujJi-6">
+          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-10" value="componentWill&lt;br&gt;UnMount" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NB6fT7P_LlFqN1GJujJi-6">
+          <mxGeometry x="190" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-1" value="this.state" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NB6fT7P_LlFqN1GJujJi-6">
+          <mxGeometry x="40" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-2" value="this.setState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NB6fT7P_LlFqN1GJujJi-6">
+          <mxGeometry x="40" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NB6fT7P_LlFqN1GJujJi-6" source="NB6fT7P_LlFqN1GJujJi-2" target="NB6fT7P_LlFqN1GJujJi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-7" value="상태 변화" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NB6fT7P_LlFqN1GJujJi-3">
+          <mxGeometry x="0.0267" y="-4" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-11" value="Funtional Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-12" value="useState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NB6fT7P_LlFqN1GJujJi-11">
+          <mxGeometry x="40" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NB6fT7P_LlFqN1GJujJi-13" value="useEffect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NB6fT7P_LlFqN1GJujJi-11">
+          <mxGeometry x="40" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
