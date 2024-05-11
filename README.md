@@ -64,7 +64,7 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 |---|---|---|---|---|---|---|
 |   |   |   | 1 <br> Next.js | 2 <br> Next.js| 3 <br> Next.js| 4  <br> Next.js|
-| 5  <br> Next.js| 6 <br> Next.js| 7 <br> Next.js| 8 <br> Next.js| 9 <br> Next.js| 10 | 11 |
+| 5  <br> Next.js| 6 <br> Next.js| 7 <br> Next.js| 8 <br> Next.js| 9 <br> Next.js| 10 <br> Rest| 11 <br> Next.js|
 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 |   |
