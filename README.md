@@ -67,5 +67,5 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | 5  <br> Next.js| 6 <br> Next.js| 7 <br> Next.js| 8 <br> Next.js| 9 <br> Next.js| 10 <br> Rest| 11 <br> Next.js|
 | 12<br> Next.js | 13 <br> Next.js| 14 <br> Next.js | 15 <br> Next.js| 16 <br> Next.js| 17 <br> Next.js| 18<br> Next.js |
 | 19 <br> Next.js| 20<br> Rest | 21<br> Next.js | 22 <br> Next.js| 23<br> Next.js | 24 <br> Rest | 25 <br> Next.js|
-| 26 <br> Next.js| 27 <br> Next.js| 28 <br> Next.js| 29 <br> Next.js| 30 <br> Next.js| 31 |   |
+| 26 <br> Next.js| 27 <br> Next.js| 28 <br> Next.js| 29 <br> Next.js| 30 <br> Next.js| 31 <br> Next.js|   |
 
