@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Kr.James%20Profile&fontSize=90&theme=cobalt)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Kr.James%20Profile&fontSize=90&theme=cobalt)
 
 <br>
 
