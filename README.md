@@ -69,4 +69,16 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | 19 <br> Next.js| 20<br> Rest | 21<br> Next.js | 22 <br> Next.js| 23<br> Next.js | 24 <br> Rest | 25 <br> Next.js|
 | 26 <br> Next.js| 27 <br> Next.js| 28 <br> Next.js| 29 <br> Next.js| 30 <br> Next.js| 31 <br> Next.js|   |
 
+<details>
+<summary>클릭하여 2024년 6월 캘린더 보기</summary>
 
+| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
+|---|---|---|---|---|---|---|
+|   |   |   |   |   |   | 1 <details> Next.js </details>|
+| 2 <details> Next.js </details>| 3 <details> Next.js </details>| 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 |   |   |   |   |   |   |
+
+</details>
