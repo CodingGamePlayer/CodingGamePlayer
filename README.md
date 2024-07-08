@@ -83,8 +83,8 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | 2 Next.js | 3 Next.js | 4 Next.js| 5 Next.js| 6 Rest| 7 Rest| 8 Rest|
 | 9 Dev | 10 Dev | 11 Next.js | 12 Next.js | 13 Next.js | 14 Next.js | 15 Next.js |
 | 16 Next.js | 17 Next.js | 18 Next.js | 19 Next.js | 20 Next.js | 21 Next.js | 22 Next.js |
-| 23 Next.js | 24 FastAPI | 25 FastAPI | 26 Replication| 27 Dev | 28 FastAPI | 29 |
-| 30 |   |   |   |   |   |   |
+| 23 Next.js | 24 FastAPI | 25 FastAPI | 26 Replication| 27 Dev | 28 FastAPI | 29 DEV|
+| 30 DEV|   |   |   |   |   |   |
 
 </details>
 
