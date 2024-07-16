@@ -86,5 +86,6 @@ Welcome to the [my tech blog!](https://jamesblog95.tistory.com/) 👈 Click Here
 | 23 Next.js | 24 FastAPI | 25 FastAPI | 26 Replication| 27 Dev | 28 FastAPI | 29 DEV|
 | 30 DEV|   |   |   |   |   |   |
 
+
 </details>
 
