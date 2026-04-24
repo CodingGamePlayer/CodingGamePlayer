@@ -22,7 +22,6 @@
 
 <br>
 
-Show [my web resume!](https://codinggameplayer.github.io/) <br>
 
 <br>
 <br>
