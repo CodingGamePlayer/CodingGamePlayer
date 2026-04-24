@@ -19,9 +19,6 @@
 
 - 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
 ```
-<br>
-
-> **Links**
 
 <br>
 
