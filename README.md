@@ -41,7 +41,7 @@
 | **Tools** | <img height="25" src="https://img.shields.io/badge/Git-F05025?style=flat-square&logo=Git&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> <img height="25" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 
 <br>
-<br>
+<br><br><br><br><br><br><br>
 
 
 
